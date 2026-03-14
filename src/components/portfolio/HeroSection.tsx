@@ -20,10 +20,8 @@ const HeroSection = () => {
         </span>
 
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-extrabold mb-8 tracking-tight">
-          <span className="text-foreground">Dharsana</span>
-          <br />
-          <span className="gradient-text">Prakash</span>
-        </h1>
+  <span className="gradient-text">Dharsana Prakash</span>
+</h1>
 
         <p className="text-base md:text-lg text-muted-foreground mb-10 leading-relaxed max-w-2xl mx-auto">
           {personalInfo.about}

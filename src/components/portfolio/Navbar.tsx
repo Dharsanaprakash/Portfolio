@@ -39,8 +39,7 @@ const Navbar = () => {
 
         {/* Logo */}
         <a href="#" className="font-display text-xl font-bold tracking-tight">
-          <span className="gradient-text">DP</span>
-          <span className="text-foreground">.</span>
+          <span className="gradient-text"></span>
         </a>
 
         {/* Desktop Navigation */}

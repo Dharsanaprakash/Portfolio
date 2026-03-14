@@ -73,19 +73,22 @@ export const certifications = [
   {
     title: "Quantium Data Analytics Job Simulation",
     description:
-      "Completed practical tasks in data preparation, customer analytics, and commercial analytics."
+      "Completed practical tasks in data preparation, customer analytics, and commercial analytics.",
+    link: "https://drive.google.com/file/d/1vr5MUc_un7XY8N2M3JYrTgaBWYBfefjp/view?usp=sharing"
   },
 
   {
     title: "Deloitte Data Analytics Job Simulation",
     description:
-      "Performed data analysis and forensic technology tasks in a simulated analytics project."
+      "Performed data analysis and forensic technology tasks in a simulated analytics project.",
+    link: "https://drive.google.com/file/d/1779LuZg4sKLVhkB62sVh7RmB3DlhVYc-/view?usp=sharing"
   },
 
   {
-    title: "GenAI Powered Data Analytics Simulation",
+    title: "GenAI Powered Data Analytics Simulation (Tata)",
     description:
-      "Worked on exploratory data analysis and AI-driven analytics for business insights."
+      "Worked on exploratory data analysis, AI-driven risk profiling, and data storytelling for business insights.",
+    link: "https://drive.google.com/file/d/1sJX-QWBxaAmuYu0L-i7zFyGVl_pY_fHf/view?usp=sharing"
   }
 ];
 
@@ -93,11 +96,11 @@ export const education = {
   college: {
     institution: "Kongu Engineering College, Erode",
     degree: "B.E Computer Science and Design",
-    cgpa: "7.88"
+    cgpa: "7.99"
   },
 
   school: {
-    institution: "URC Natarajamani Mehta Higher Secondary School, Erode",
-    grades: "12th Grade: 66.5% | 10th Grade: 75.6%"
+    institution: "URC Palaniammal Metric Higher Secondary School, Erode",
+    grades: "12th Grade: 89.5% | 10th Grade: 75.6%"
   }
 };
